@@ -24,7 +24,7 @@ This project allows you to generate QR codes from any text or URL and save them 
    npm install qrcode inquirer
 
 ## 🛠️ Usage
-1. type ```bash node index.js ``` inside the terminal
+1. type ``` node index.js ``` inside the terminal
 <img width="425" height="63" alt="image" src="https://github.com/user-attachments/assets/6c07c358-b305-4049-8d04-0da88ccc8335" />
 
 
