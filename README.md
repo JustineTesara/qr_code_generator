@@ -29,7 +29,10 @@ This project allows you to generate QR codes from any text or URL and save them 
 
 
 EXAMPLE:
+
 <img width="285" height="77" alt="image" src="https://github.com/user-attachments/assets/6952872d-9920-4770-9d18-2d21b1053f52" />
+
+
 <img width="1516" height="626" alt="image" src="https://github.com/user-attachments/assets/27e5b0ca-b1dc-4a00-9620-71f837add99c" />
 
 
